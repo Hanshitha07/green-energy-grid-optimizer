@@ -1,0 +1,5 @@
+{
+  "name": "Green Energy Grid Optimizer",
+  "description": "Optimized energy distribution using Esau-Williams CMSF and Tarjan's Bridge-finding algorithms for resilient grid design.",
+  "requestFramePermissions": []
+}
